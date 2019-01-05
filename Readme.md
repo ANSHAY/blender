@@ -1,7 +1,7 @@
 # Images of 3D models created in Blender
 
 ![hny3](hny3.png)
-![ball soccer](ball soccer.png)
+![ball soccer](ball_soccer.png)
 ![tent](tent.png)
 ![wand](wand.png)
 ![ring](ring.png)
