@@ -2,6 +2,7 @@
 <video controls>
   <source src="videos/vid001.mp4" type="video/mp4">
 </video>
+![balls](images\balls.png)
 ![ball on the grassland](images\pic011.png)
 ![turtle](images\pic001.png)
 ![hny3](images\pic012.png)
